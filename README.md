@@ -19,4 +19,6 @@ Also, communication and research is the most important key to making progress in
 <br>
 <br>
 <br>
-<a href="https://www.linkedin.com/in/merve-akay-b52400279/">My LinkedIn Account</a>
+<a href="https://www.linkedin.com/in/merve-akay-b52400279/"><img src"https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+
+
