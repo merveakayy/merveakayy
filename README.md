@@ -15,3 +15,6 @@ Also, communication and research is the most important key to making progress in
 
 ## 🛠️ Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="30" height="33" align="left" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60" height="60" align="left" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" align="left" valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="65" height="30" align="left" valign="top">
+
+<br><br>
+<a href="https://www.linkedin.com/in/merve-akay-b52400279/">My Linkedin Account</a>
